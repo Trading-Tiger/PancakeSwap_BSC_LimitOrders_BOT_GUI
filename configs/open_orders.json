@@ -1,0 +1,11 @@
+[
+    {
+        "ID": "YTHQO",
+        "SIDE": "BUY",
+        "INPUT_SYMBOL": "BNB",
+        "INPUT_AMOUNT": 0.001,
+        "OUTPUT_SYMBOL": "TIGS",
+        "TARGET_PRICE": 0.041,
+        "TOKEN_ADDRESS": "0x34FaA80FEC0233e045eD4737cc152a71e490e2E3"
+    }
+]

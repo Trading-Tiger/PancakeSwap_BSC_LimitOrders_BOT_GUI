@@ -1,0 +1,7 @@
+requests
+web3
+pandas
+plotly
+pyqt5
+finplot
+pyqtchart

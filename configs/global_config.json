@@ -1,0 +1,10 @@
+{
+    "CandleTimeMin": 60,
+    "CandleHistory": 672,
+    "MA20": true,
+    "VOLUME": true,
+    "ORDERS_ONLINE": false,
+    "MENU_BUTTON": "WALLET",
+    "BASE_TOKEN": "BNB",
+    "ORDER_TYPE": "LIMIT"
+}
