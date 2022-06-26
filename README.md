@@ -1,6 +1,9 @@
 # PancakeSwap_BSC_LimitOrders_BOT_GUI🚀
 ![Trading-Tigers.com](https://trading-tigers.com/logos/TradingTigers.png)  
 PyQT5 &amp; Web3.py, Wallet Overerview, Market &amp; Limit Orders execute on Pancakeswap.  
+Low-cost limit orders executed from your system.
+Currently only Binance Smart Chain is supported.
+Limit Order or Limit Swaps for 0.77% Tax on their trading volume.
 
 ### Support Us&You by Buying [TradingTigers Token](https://bscscan.com/token/0x34faa80fec0233e045ed4737cc152a71e490e2e3)  
 ![Preview-Chart](https://trading-tigers.com/logos/Trading-Tigers-ToolKit-Bot.png)  
